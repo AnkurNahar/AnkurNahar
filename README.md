@@ -27,13 +27,10 @@
 
 | Project | Description | 
 | :---: | :---: |
-| [GPS Tracking](https://github.com/AnkurNahar/gps_backend_go) | simple Go CRUD |
-| [GPS Tracking](https://github.com/AnkurNahar/gps_backend_go) | simple Go CRUD |
-| [GPS Tracking](https://github.com/AnkurNahar/gps_backend_go) | simple Go CRUD |
-| [GPS Tracking](https://github.com/AnkurNahar/gps_backend_go) | simple Go CRUD |
-| [GPS Tracking](https://github.com/AnkurNahar/gps_backend_go) | simple Go CRUD |
-| [GPS Tracking](https://github.com/AnkurNahar/gps_backend_go) | simple Go CRUD |
-| [GPS Tracking](https://github.com/AnkurNahar/gps_backend_go) | simple Go CRUD |
+| [TrackIt (Backend)](https://github.com/AnkurNahar/gps_backend_go) | A Go-based backend service for real-time GPS tracking, geofencing, and route history. |
+| [TrackIt (Frontend)](https://github.com/AnkurNahar/gps_frontend_vue) | A Vue.js frontend for real-time GPS tracking, geofencing, and route visualization. |
+| [Recently Viewed (Backend)](https://github.com/AnkurNahar/recently_viewed_backend) | A Node.js and Firebase Firestore backend for managing recently viewed items. |
+| [Recently Viewed (Frontend)](https://github.com/AnkurNahar/recently_viewed_frontend) | A frontend interface for displaying recently viewed items with dynamic updates. |
 
 <br/>
 
