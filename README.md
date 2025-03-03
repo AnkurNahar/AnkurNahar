@@ -59,4 +59,5 @@
 
 ## Let's connect :
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=6)](https://skillicons.dev)
+[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://www.linkedin.com/in/ankur-nahar) 
+[![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg)](https://www.instagram.com/through_ankurs_eyes)
