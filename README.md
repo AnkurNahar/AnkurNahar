@@ -21,7 +21,13 @@
 
 <br/>
 
+## Currently Working On :
 
+| Project | Description | 
+| :---: | :---: |
+| [LearnedIt (Backend)](https://gist.github.com/AnkurNahar/08b07ac020680fae410d45277c2b628b) | A gamified learning platform with interactive lessons, challenges, and personalized progress tracking. |
+
+<br/>
 
 ## Some Personal Projects :
 
